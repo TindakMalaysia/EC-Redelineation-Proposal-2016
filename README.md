@@ -9,10 +9,10 @@ At the top level; the original ZIP from EC's server is there for double checking
 
 ```
 <State>
-        <State>-Digitized-Proposal.xlsx  --> Digitized version of Proposal (Data Entry)
-        <State>-Digitized-Proposal.csv  --> Digitized version of Proposal in CSV (Data Entry)
-        <State>-Digitized-Voters.xlsx  --> Digitized version of Voters (Data Entry)
-        <State>-Digitized-Voters.xlsx  --> Digitized version of Voters in CSV (Data Entry)
+        <State>-Proposal-Digitized.xlsx  --> Digitized version of Proposal (Data Entry)
+        <State>-Proposal-Digitized.csv  --> Digitized version of Proposal in CSV (Data Entry)
+        <State>-Voters-Digitized.xlsx  --> Digitized version of Voters (Data Entry)
+        <State>-Voters-Digitized.xlsx  --> Digitized version of Voters in CSV (Data Entry)
 	MAP      -->
 	VOTERS   -->
 	PROPOSAL -->
